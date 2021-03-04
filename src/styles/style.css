@@ -515,7 +515,7 @@ h4 {
 
 .button-send {
   position: absolute;
-  top: 17%;
+  top: 16.3%;
   right: 0;
 
   display: inline-block;
@@ -583,8 +583,8 @@ h4 {
 
 @media (max-width: 800px) {
   .section-elem-1 {
-    width: 90%;
-    height: auto;
+    width: auto;
+    height: 30vh;
   }
 
   .image-size {
